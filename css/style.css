@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    margin: 0 auto;
+}
+
+main{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.sector{
+    
+    width: 48%;
+    height: 47%;
+    border: solid black 1px;
+    display: inline-block;
+    float: left;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 2em;
+    font-weight: bolder;
+    margin-top: 30%;
+}
+
+.barra{
+    width: 45%;
+    margin-left: 26%;
+    margin-top: 30px;
+    height: 19px;
+    border: dotted red 1px;
+    
+}
+.btn{
+    width: 15%;
+    background-color: gray;
+    border-radius: 40px;
+    color: aliceblue;
+}
+
+#d1{
+    transition: all 0.5s;
+    transform: scale();
+    display: block;
+}
+
+
+body{
+    
+    background-image: url(../img/simple-blue-background.jpg);
+    background-size: cover;
+}
+
