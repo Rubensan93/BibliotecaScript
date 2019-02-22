@@ -1,3 +1,3 @@
 # Biblioteca Script
 
-Proyectos en Visual Studio Code
+Proyectos de colección de elementos y práctica en Visual Studio Code
